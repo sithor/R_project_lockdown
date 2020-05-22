@@ -2,7 +2,7 @@
 
 This is a shiny app which explores data related to the effect of lockdowns in the US, by State. The app is <a href="https://sithor.shinyapps.io/lockdown/" target="_blank">here</a>.
 
-The data was provided from Prof. Wilfred Reilly at Kentucky State University after reading his article
+The data was provided from Prof. Wilfred Reilly from Kentucky State University after reading his article
 in spiked magazine [here](https://www.spiked-online.com/2020/04/22/there-is-no-empirical-evidence-for-these-lockdowns/).
 
 The two explanatory variables are whether or not the State is under lockdown (0 = no lockdown; 1 = lockdown), and the other is population density,
