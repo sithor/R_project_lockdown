@@ -1,6 +1,6 @@
 # R_project_lockdown
 
-This is a shiny app which explores data related to the effect of lockdowns in the US, by State. 
+This is a shiny app which explores data related to the effect of lockdowns in the US, by State. The app is [here](https://sithor.shinyapps.io/lockdown/).
 
 The data was provided from Prof. Wilfred Reilly at Kentucky State University after reading his article
 in spiked magazine [here](https://www.spiked-online.com/2020/04/22/there-is-no-empirical-evidence-for-these-lockdowns/).
