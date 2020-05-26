@@ -10,6 +10,6 @@ either weighted (discounts very low density areas) or raw. The updated Covid-19 
 
 The app is by [Simon Thornley](https://unidirectory.auckland.ac.nz/profile/s-thornley), Epidemiologist at the University of Auckland.
 
-An explanation of the app is given in this [youtube video](https://www.youtube.com/watch?v=-cB_DEbXrhE&feature=youtu.be&t=721) with the motivation and an explanation of the app given from the 12 minute mark. 
+An explanation of the app is given in this [youtube video](https://www.youtube.com/watch?v=-cB_DEbXrhE&feature=youtu.be&t=721) with the motivation and an explanation of the app given from the 12 minute mark. The app renders much better on a computer monitor compared to a tablet or smart phone. Also, interactive 'hover' functionality works with a mouse, but not a touch screen.
 
 
